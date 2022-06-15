@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "645430759451",
+    "project_id": "upbeat-splicer-264606",
+    "storage_bucket": "upbeat-splicer-264606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645430759451:android:e14f4c0fd27fce15b7e8be",
+        "android_client_info": {
+          "package_name": "com.projectwqk.studentbee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645430759451-ql41mgqbpafuv5vik68t9796qeg92hrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOT2z8BaaUVOKbbsFOFsFUt6VYS-YLck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645430759451-ql41mgqbpafuv5vik68t9796qeg92hrc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645430759451-ph5nqigur0frgi9ft0a3s9lpnp7ohno5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.projectwqk.studentbee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645430759451:android:49a5365e8728c438b7e8be",
+        "android_client_info": {
+          "package_name": "com.projwork.projsho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645430759451-ql41mgqbpafuv5vik68t9796qeg92hrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOT2z8BaaUVOKbbsFOFsFUt6VYS-YLck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645430759451-ql41mgqbpafuv5vik68t9796qeg92hrc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645430759451-ph5nqigur0frgi9ft0a3s9lpnp7ohno5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.projectwqk.studentbee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
